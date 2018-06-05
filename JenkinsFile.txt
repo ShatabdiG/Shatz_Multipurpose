@@ -16,7 +16,7 @@ node() {
 
 			 dir('hummingbird-main') {
 				 //for jar in lib folder
-				 sh "./build.sh"
+				 sh "./build.bat"
 			 }
         }
 
